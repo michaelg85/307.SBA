@@ -1,28 +1,62 @@
-body {
-    background-color: navy;
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
 }
 
-/* Main */
+
+#navbar{
+    background-color: #526daf;
+}
+
+
+
+/* Register button hoover */
 .btn {
-    border: none;
-    background-color: inherit;
+    margin: 25px;
+    border: black;
+    background-color: darkred;
     padding: 14px 28px;
     font-size: 16px;
     cursor: pointer;
     display: inline-block;
-  }
-  
-  /* On mouse-over */
-.btn:hover {background: #526daf;}
-  
+}
+
+/* On mouse-over */
+.btn:hover {
+    background: #526daf;
+}
+
 .success {
     color: black;
     font-weight: 800;
- }
+}
 
-.registerbtn {
-    margin: 25px;
-    border:black;
-    background-color:gray;
-    border-width: 5px;
-    border-radius: 10%;
+/* Hamburger button hoover */
+/* #toggler {
+    margin: 3px;
+    border: black;
+    background-color: darkred;
+    padding: 2px 4px;
+    cursor: pointer;
+    display: inline-block;
+} */
+
+/* On mouse-over */
+/* .toggler:hover {
+    background: #526daf;
+} */
+
+/* .success {
+    color: black;
+    font-weight: 800;
+} */
+
+
+.carousel {
+    /* width: 750px; */
+    border: 5px rgb(202, 22, 22) solid;
+    border-width: 2px;
+    border-radius: 25px;
+    
+}
+
