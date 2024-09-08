@@ -22,6 +22,7 @@ A website for people with disabilities to be able to find resources
 
 
 Added the pop-out menu with a welcome message to viewers.
+***POP-OUT MENU NEEDS TO BE COMMENTED OUT WHILE WORKING***
 
 Added a navbar for ease of access to navigate the site.
 
@@ -29,4 +30,5 @@ Added a header bar.
 
 Added a button.
 
-Added photo carousel.
+Added image carousel, photos.
+
