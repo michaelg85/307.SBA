@@ -1,9 +1,9 @@
 # Project Name
-
+Access resoures
 
 
 ## Description
-
+A website for people with disabilities to be able to find resources 
 
 
 ## Technologies used
@@ -21,3 +21,12 @@
 
 
 
+Added the pop-out menu with a welcome message to viewers.
+
+Added a navbar for ease of access to navigate the site.
+
+Added a header bar.
+
+Added a button.
+
+Added photo carousel.

@@ -1,4 +1,28 @@
-* {
+body {
     background-color: navy;
 }
 
+/* Main */
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  /* On mouse-over */
+.btn:hover {background: #526daf;}
+  
+.success {
+    color: black;
+    font-weight: 800;
+ }
+
+.registerbtn {
+    margin: 25px;
+    border:black;
+    background-color:gray;
+    border-width: 5px;
+    border-radius: 10%;
