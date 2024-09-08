@@ -2,3 +2,19 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+#circle {
+    width:150px;
+    height: 150px;
+    float: right;
+    border: 8px rgb(202, 22, 22) solid;
+    border-width: 5px;
+    border-radius: 50%;
+}
+
+#square {
+    width:250px;
+    height: 150px;
+    float: right;
+    border: 8px rgb(202, 22, 22) solid;
+    border-width: 5px;
