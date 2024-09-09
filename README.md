@@ -1,32 +1,36 @@
 # Project Name
-Access resoures
+Access
 
 
 ## Description
-A website for people with disabilities to be able to find resources 
+A website for people with disabilities to be able to find resources at home and in their communities.
 
 
 ## Technologies used
 * HTML
 * CSS
 * Bootstrap
-
+* Google Fonts
 
 ## How to get started
-* item 1
-* item 2
+* View the image carousel
+* Navigate to the "Registration" Page
+* Navigate to the "Resources" Page (drop down the hamburger menu if "Resources" is not visible)
+* Navigate home by hitting the "Welcome!" button or the "Home" button.
 
 
 ## Acknowledgments
 W3Schools.com
-Bootstrap.com
+getbootstrap.com
 Pexels.com
 Giphy.com
+fonts.google.com
 
+## Notes
 
-
-Added the pop-out menu with a welcome message to viewers.
 ***POP-OUT MENU NEEDS TO BE COMMENTED OUT WHILE WORKING***
+
+Added a pop-out menu with a welcome message to viewers.
 
 Added a navbar for ease of access to navigate the site.
 
@@ -36,10 +40,9 @@ Added a button.
 
 Added image carousel, photos.
 
-Added a Registration page.
+Added a Registration page with bootstrap forms and lists.
 
-Added a Resources page.
-
+Added a Resources page with flexbox tables.
 
 
 
@@ -53,11 +56,11 @@ The requirements listed below are absolute minimums. Ensure that your website me
 
 <!-- Keep the grid system consistent between pages as much as possible. -->
 
-Use at least ten different HTML tags.
+<!-- Use at least ten different HTML tags. -->
 
-Include at least one table.
+<!-- Include at least one table. -->
 
-Include at least two forms.
+<!-- Include at least two forms. -->
 
 <!-- Include at least one dropdown menu. -->
 
@@ -70,12 +73,12 @@ Include at least two forms.
 
 <!-- Make use of inline, internal, and external styling. -->
 
-Use five different CSS selectors.
+<!-- Use five different CSS selectors. -->
 
 <!-- Use colors that complement each other.
 Coolors is one of many resources that can help you find a color palette. -->
 
-Use Flexbox and/or the Bootstrap Grid.
+<!-- Use Flexbox and/or the Bootstrap Grid. -->
 
 <!-- Use at least two CSS animations:
     Button hover
